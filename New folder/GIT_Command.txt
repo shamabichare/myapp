@@ -1,7 +1,17 @@
+
+Download git bash and open that  in your folder.
+rightclick and open with git bash
+
+do 
+
+git init
+
 git status
 git status -s
-git add .
+git add .       
+(. represents present directory)
 git commit -m "Comments"
+(-m presents messge and u  put the comments in comment session)
 git log
 git show <commit-id>
 git remote add <alias-name-of-remote-git> <url-or-ip>
@@ -10,3 +20,4 @@ git pull
 git clone <remote-url>
 git checkout -b <new-branch-name>
 git checkout <existing-branch-name>
+init
