@@ -1,0 +1,12 @@
+git status
+git status -s
+git add .
+git commit -m "Comments"
+git log
+git show <commit-id>
+git remote add <alias-name-of-remote-git> <url-or-ip>
+git push <alias> <branchname>
+git pull
+git clone <remote-url>
+git checkout -b <new-branch-name>
+git checkout <existing-branch-name>
